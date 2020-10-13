@@ -1,13 +1,11 @@
-title: Learning to COde
+title: Learning to Code
 author: gluc97
 email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
- This information provided will allow me to learn the some new skills when it comes to website development
- and a better understand of how to write code.
+description: Intro into creating blog posts within github.
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: your-twitter-handle # DO NOT include the character, or else the build will fail!
+github_username:  your-github-handle # DO NOT include the character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
